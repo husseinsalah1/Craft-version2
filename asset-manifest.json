@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/craft-version2/static/css/main.5be84043.chunk.css",
-    "main.js": "/craft-version2/static/js/main.8790cbe5.chunk.js",
-    "main.js.map": "/craft-version2/static/js/main.8790cbe5.chunk.js.map",
+    "main.css": "/craft-version2/static/css/main.a0bd22d0.chunk.css",
+    "main.js": "/craft-version2/static/js/main.c2904beb.chunk.js",
+    "main.js.map": "/craft-version2/static/js/main.c2904beb.chunk.js.map",
     "runtime-main.js": "/craft-version2/static/js/runtime-main.20a8a1a0.js",
     "runtime-main.js.map": "/craft-version2/static/js/runtime-main.20a8a1a0.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/craft-version2/static/css/2.7fc9bc2b.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.42d428b6.chunk.js.map": "/craft-version2/static/js/2.42d428b6.chunk.js.map",
     "index.html": "/craft-version2/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/craft-version2/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.5be84043.chunk.css.map": "/craft-version2/static/css/main.5be84043.chunk.css.map",
+    "static/css/main.a0bd22d0.chunk.css.map": "/craft-version2/static/css/main.a0bd22d0.chunk.css.map",
     "static/js/2.42d428b6.chunk.js.LICENSE.txt": "/craft-version2/static/js/2.42d428b6.chunk.js.LICENSE.txt",
     "static/media/1.1852e834.jpg": "/craft-version2/static/media/1.1852e834.jpg",
     "static/media/1.3131b04e.jpg": "/craft-version2/static/media/1.3131b04e.jpg",
@@ -46,7 +46,7 @@
     "static/js/runtime-main.20a8a1a0.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.42d428b6.chunk.js",
-    "static/css/main.5be84043.chunk.css",
-    "static/js/main.8790cbe5.chunk.js"
+    "static/css/main.a0bd22d0.chunk.css",
+    "static/js/main.c2904beb.chunk.js"
   ]
 }
